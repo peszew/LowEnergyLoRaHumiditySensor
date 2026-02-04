@@ -253,7 +253,7 @@ home/lora/battery      →  Battery level in %
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/peszew/lora-humidity-sensor.git
+   git clone https://github.com/peszew/LowEnergyLoRaHumiditySensor.git
    ```
 
 2. Open the project in STM32CubeIDE:
