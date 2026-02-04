@@ -1,0 +1,54 @@
+# STM32CubeIDE / Eclipse
+.settings/
+Debug/
+Release/
+*.launch
+
+# Build artifacts
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# IDE files
+.project
+.cproject
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+env/
+venv/
+.venv/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Temporary files
+*.tmp
+*.temp
+
+# Keep Gerber files (do not ignore)
+!Gerber_*/
+
+# Keep ZIP archives for manufacturing
+!*.zip
