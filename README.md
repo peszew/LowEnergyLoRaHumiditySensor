@@ -1,8 +1,8 @@
 # LoRa Wireless Humidity Sensor
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: STM32](https://img.shields.io/badge/Platform-STM32L071-blue.svg)](https://www.st.com/en/microcontrollers-microprocessors/stm32l0-series.html)
 [![Communication: LoRa](https://img.shields.io/badge/Communication-LoRa%20868MHz-green.svg)](https://lora-alliance.org/)
+[![University: WUT](https://img.shields.io/badge/University-Warsaw%20University%20of%20Technology-red.svg)](https://www.pw.edu.pl/)
 
 > **Bachelor Thesis Project** - A complete IoT solution for wireless environmental monitoring using LoRa communication, featuring a custom-designed PCB with ultra-low power consumption.
 
@@ -349,7 +349,13 @@ This includes:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project was created as a Bachelor Thesis at **Warsaw University of Technology**.
+
+- The thesis and related materials are the intellectual property of Warsaw University of Technology
+- Available for **educational and research purposes only**
+- Commercial use requires permission from the author and university
+
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
